@@ -1,3 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: TwoWaySerialComm
-
+Main-Class: com.ar.m.TwoWaySerialComm
